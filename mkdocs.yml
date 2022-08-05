@@ -1,3 +1,11 @@
-site_name: tnt-wizards-wiki
+# The name of the site
+site_name: TNT Wizards Wiki
+
+# What theme the site is using
 theme:
   name: material
+
+# Place extensions here, see https://squidfunk.github.io/mkdocs-material/reference/
+markdown_extentions:
+  - tables
+  - meta
