@@ -6,25 +6,25 @@ They are roughly divided into *particle classes* and *projectile classes*. The c
 
 | Class | Attack Wand | Defense Wand |
 |:---|:---:|:---:|
-| [Fire]    | ![Image](assets/icons/blaze_rod.png)    | ![Image](assets/icons/stick.png) |
-| [Ice]     | ![Image](assets/icons/diamond_hoe.png)  | ![Image](assets/icons/stick.png) |
-| [Kinetic] | ![Image](assets/icons/iron_hoe.png)     | ![Image](assets/icons/stick.png) |
-| [Wither]  | ![Image](assets/icons/golden_axe.png)   | ![Image](assets/icons/def.png) |
-| [Blood]   | ![Image](assets/icons/bone.png)         | ![Image](assets/icons/wooden_hoe.png) |
-| [Toxic]   | ![Image](assets/icons/ghast_tear.png)   | ![Image](assets/icons/fermented_spider_eye.png) |
-| [Storm]   | ![Image](assets/icons/golden_sword.png) | ![Image](assets/icons/bone.png) |
-| [Hydro]   | ![Image](assets/icons/lapis_lazuli.png) | ![Image](assets/icons/stick.png) |
-| [Ancient] | ![Image](assets/icons/magma_cream.png)  | ![Image](assets/icons/gold_nugget.png) |
+| [Fire]    | ![Image](./assets/icons/blaze_rod.png)    | ![Image](./assets/icons/stick.png) |
+| [Ice]     | ![Image](./assets/icons/diamond_hoe.png)  | ![Image](./assets/icons/stick.png) |
+| [Kinetic] | ![Image](./assets/icons/iron_hoe.png)     | ![Image](./assets/icons/stick.png) |
+| [Wither]  | ![Image](./assets/icons/golden_axe.png)   | ![Image](./assets/icons/def.png) |
+| [Blood]   | ![Image](./assets/icons/bone.png)         | ![Image](./assets/icons/wooden_hoe.png) |
+| [Toxic]   | ![Image](./assets/icons/ghast_tear.png)   | ![Image](./assets/icons/fermented_spider_eye.png) |
+| [Storm]   | ![Image](./assets/icons/golden_sword.png) | ![Image](./assets/icons/bone.png) |
+| [Hydro]   | ![Image](./assets/icons/lapis_lazuli.png) | ![Image](./assets/icons/stick.png) |
+| [Ancient] | ![Image](./assets/icons/magma_cream.png)  | ![Image](./assets/icons/gold_nugget.png) |
 
-[Fire]: classes/fire.md
-[Ice]: classes/ice.md
-[Kinetic]: classes/kinetic.md
-[Wither]: classes/wither.md
-[Blood]: classes/blood.md
-[Toxic]: classes/toxic.md
-[Storm]: classes/storm.md
-[Hydro]: classes/hydro.md
-[Ancient]: classes/ancient.md
+[Fire]: ./classes/fire.md
+[Ice]: ./classes/ice.md
+[Kinetic]: ./classes/kinetic.md
+[Wither]: ./classes/wither.md
+[Blood]: ./classes/blood.md
+[Toxic]: ./classes/toxic.md
+[Storm]: ./classes/storm.md
+[Hydro]: ./classes/hydro.md
+[Ancient]: ./classes/ancient.md
 [projectiles]: https://minecraft-archive.fandom.com/wiki/Category:Projectiles
 [entities]: https://minecraft.fandom.com/wiki/Entity
 [particles]: https://minecraft.fandom.com/wiki/Particles
