@@ -16,15 +16,15 @@ They are roughly divided into *particle classes* and *projectile classes*. The c
 | [Hydro]   | ![Image](./assets/icons/lapis_lazuli.png) | ![Image](./assets/icons/stick.png) |
 | [Ancient] | ![Image](./assets/icons/magma_cream.png)  | ![Image](./assets/icons/gold_nugget.png) |
 
-[Fire]: ./classes/fire.md
-[Ice]: ./classes/ice.md
-[Kinetic]: ./classes/kinetic.md
-[Wither]: ./classes/wither.md
-[Blood]: ./classes/blood.md
-[Toxic]: ./classes/toxic.md
-[Storm]: ./classes/storm.md
-[Hydro]: ./classes/hydro.md
-[Ancient]: ./classes/ancient.md
+[Fire]: ./classes/fire
+[Ice]: ./classes/ice
+[Kinetic]: ./classes/kinetic
+[Wither]: ./classes/wither
+[Blood]: ./classes/blood
+[Toxic]: ./classes/toxic
+[Storm]: ./classes/storm
+[Hydro]: ./classes/hydro
+[Ancient]: ./classes/ancient
 [projectiles]: https://minecraft-archive.fandom.com/wiki/Category:Projectiles
 [entities]: https://minecraft.fandom.com/wiki/Entity
 [particles]: https://minecraft.fandom.com/wiki/Particles
