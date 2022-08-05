@@ -37,6 +37,11 @@ extra:
 markdown_extentions:
   - tables
   - meta
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 # Plugins to use
 plugins:
