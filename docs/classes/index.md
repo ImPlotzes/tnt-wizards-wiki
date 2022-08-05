@@ -9,7 +9,7 @@ They are roughly divided into *particle classes* and *projectile classes*. The c
 | [Fire]    | ![Image](/assets/icons/blaze_rod.png)    | ![Image](/assets/icons/stick.png) |
 | [Ice]     | ![Image](/assets/icons/diamond_hoe.png)  | ![Image](/assets/icons/stick.png) |
 | [Kinetic] | ![Image](/assets/icons/iron_hoe.png)     | ![Image](/assets/icons/stick.png) |
-| [Wither]  | ![Image](/assets/icons/golden_axe.png)   | ![Image](/assets/icons/def.png) |
+| [Wither]  | ![Image](/assets/icons/golden_axe.png)   | ![Image](/assets/icons/stick.png) |
 | [Blood]   | ![Image](/assets/icons/bone.png)         | ![Image](/assets/icons/wooden_hoe.png) |
 | [Toxic]   | ![Image](/assets/icons/ghast_tear.png)   | ![Image](/assets/icons/fermented_spider_eye.png) |
 | [Storm]   | ![Image](/assets/icons/golden_sword.png) | ![Image](/assets/icons/bone.png) |
