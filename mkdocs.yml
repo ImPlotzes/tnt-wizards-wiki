@@ -1,11 +1,48 @@
-# The name of the site
+# General information about the site
 site_name: TNT Wizards Wiki
+repo_url: https://github.com/ImPlotzes/tnt-wizards-wiki
+repo_name: ImPlotzes/tnt-wizards-wiki
+edit_uri: edit/main/docs/
 
 # What theme the site is using
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Currently using light mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Currently using dark mode
+
+# Extra's
+extra:
+  social:
+    - name: The wiki's GitHub repository
+      icon: fontawesome/brands/github
+      link: https://github.com/ImPlotzes/tnt-wizards-wiki
+    - name: The TNT Wizards Discord server
+      icon: fontawesome/brands/discord
+      link: https://discord.gg/Mappy28gZD
 
 # Place extensions here, see https://squidfunk.github.io/mkdocs-material/reference/
 markdown_extentions:
   - tables
   - meta
+
+# Plugins to use
+plugins:
+  - search:
+      lang: en
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+      type: timeago
